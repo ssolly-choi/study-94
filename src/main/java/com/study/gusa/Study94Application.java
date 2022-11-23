@@ -1,0 +1,13 @@
+package com.study.gusa;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Study94Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Study94Application.class, args);
+    }
+
+}
